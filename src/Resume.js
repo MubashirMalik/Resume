@@ -5,7 +5,7 @@ import { StyledLine } from './Line.style';
 import FmdGoodIcon from '@mui/icons-material/FmdGood';
 import PhoneIcon from '@mui/icons-material/Phone';
 import MailIcon from '@mui/icons-material/Mail';
-import avatar from './images/2.jpg';
+import avatar from './images/1.jpg';
 
 import './Resume.css'
 
