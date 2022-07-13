@@ -22,7 +22,7 @@ export default function Resume() {
         ["LinkedIn", "https://linkedin.com/in/mubashir0/"]    
     ]
     const skills = ["Golang", "C++", "Solidity", "PHP", "ReactJS", "Git & GitHub"]
-    const interests = ["Dota", "Cricket", "Web3"]
+    const interests = ["Dota2, Cricket, Web3, Cybersecurity"]
     const summary = "I am a fast learner and driven individual with the ability to adapt to any situation. I have extensive experience in Web development. I am currently working in Blockchain technology."// About me 
     const workExperience = [{
         jobTitle: "SOFTWARE ENGINEER",
